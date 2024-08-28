@@ -25,4 +25,7 @@ Do thư mục Library của đồ án quá nặng (10.3 GB), không thể upload
 
 Tham khảo dựa trên project ARTD của Giorgio Liggio - ĐH Milan [Giorgio Liggio - AR Tower Defence GitHub Repository](https://github.com/liggiorgio/ar-tower-defence)
 
+Điểm khác so với bản gốc:
+- Việt hoá phần hướng dẫn chơi game
+- Nâng cấp phiên bản Unity và AR Services, giúp game có thể chạy với phiên bản AR Services mới nhất của Google.
 
