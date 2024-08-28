@@ -1,6 +1,6 @@
 # Nhập Môn CNPM - Học kỳ hè năm học 2023 - 2024
- Đồ án cuối kỳ học phần Nhập môn CNPM - Phát triển game 3D tương tác và thực thể ảo AR với Unity trên môi trường Android
- Trò chơi AR Tower Defence 2022
+ Đồ án cuối kỳ học phần Nhập môn CNPM - Phát triển game 3D tương tác và thực thể ảo AR với Unity trên môi trường Android  
+ Trò chơi AR Tower Defence 2022    
  
  
  Giảng viên hướng dẫn: ThS. Trần Thanh Nhã  
