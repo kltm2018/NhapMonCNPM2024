@@ -20,7 +20,8 @@ Unity 2022.3.41f1 (game development)
 Visual Studio 2022  
 Blender 2.82 (object modeling, external renderer)
 GIMP 2.10 (sprite/texture editing)
-Audacity 2.3.2 (audio clip editing)
+Audacity 2.3.2 (audio clip editing)    
+Do thư mục Library của đồ án quá nặng (10.3 GB), không thể upload lên Github được nên nhóm chỉ upload code phần chính lên github, file đồ án hoàn chỉnh được upload lên Google Drive, tải file về giải nén và sử dụng. Link tải:  [AR Tower Defence 2022](https://drive.google.com/file/d/1CfPWdy5_64okQczYDcT_K5KYWLOHTyES/view)
 
 Tham khảo dựa trên project ARTD của Giorgio Liggio - ĐH Milan [Giorgio Liggio - AR Tower Defence GitHub Repository](https://github.com/liggiorgio/ar-tower-defence)
 
