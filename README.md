@@ -3,9 +3,9 @@
  Trò chơi AR Tower Defence 2022
  
  
- Giảng viên hướng dẫn: ThS. Trần Thanh Nhã
- Nhóm 1
- Danh sách sinh viên thực hiện:
+ Giảng viên hướng dẫn: ThS. Trần Thanh Nhã  
+ Nhóm 1  
+ Danh sách sinh viên thực hiện:  
  | Họ và tên             | Mã số sinh viên   |
 |-----------------------|-------------------|
 | Nguyễn Huỳnh Minh Nhật | 46.01.104.128     |
@@ -14,10 +14,10 @@
 | Hoàng Đạo Duy Đạt      | 49.01.104.029     |
 | Bùi Văn Hiệp           | 44.01.704.021     |
 
-Các phần mềm sử dụng:
+Các phần mềm sử dụng:    
 
-Unity 2022.3.41f1 (game development)
-Visual Studio 2022
+Unity 2022.3.41f1 (game development)  
+Visual Studio 2022  
 Blender 2.82 (object modeling, external renderer)
 GIMP 2.10 (sprite/texture editing)
 Audacity 2.3.2 (audio clip editing)
